@@ -1,6 +1,9 @@
 ## Olá! Sou o Melo!
  
--Estudante de Cybersecurity na FIAP
+-Estudante de Cybersecurity na FIAP 
+-
+-Security Analyst
+-
 
 ### 📬 Contact me!
 
